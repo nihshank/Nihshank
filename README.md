@@ -1,5 +1,5 @@
 # Nihshank Luray
-🌱 Computer Science Student at Western University<br>💬 Interested in Backend Development and Artificial Intelligence<br>
+🌱 Computer Science Student at Western University<br>
 
 
 ## Contact:
